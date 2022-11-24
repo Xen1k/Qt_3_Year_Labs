@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cosmoObjects.json</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>earth.png</file>
+        <file>solarSystem.jpg</file>
+        <file>stars.jpg</file>
+    </qresource>
+</RCC>

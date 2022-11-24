@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ToolbarIcons">
+        <file>reject.png</file>
+        <file>archeology.png</file>
+    </qresource>
+</RCC>

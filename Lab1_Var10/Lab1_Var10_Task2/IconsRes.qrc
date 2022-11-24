@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ActionsIcons">
+        <file>archeology.png</file>
+        <file>reject.png</file>
+    </qresource>
+</RCC>
